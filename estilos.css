@@ -1,0 +1,21 @@
+
+h2{
+    color: yellowgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.color_azul{
+    color: blue;
+    font-size: x-large;
+}
+
+.tabla{
+    padding: 50px;
+}
+.tabla_div{
+    padding: 20px;
+    background-color: chocolate;
+}
